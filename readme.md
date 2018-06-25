@@ -27,11 +27,11 @@
 
  
 
-### :sunny:KPU_Sunny (+BossLocker)
+### :sunny: KPU_Sunny (+BossLocker)
 
-- [KPU_Sunny](https://github.com/adunStudio/KPU_Sunny) 프로젝트 완성
-- 2D / 3D Game Engine for KPU student who make graduation project with DirectX 11
-- BossLocker 게임 개발 (~ 8.20)
+> 2D / 3D Game Engine for KPU student who make graduation project with DirectX 11
+
+- [KPU_Sunny](https://github.com/adunStudio/KPU_Sunny) 프로젝트 / BossLocker 게임 개발 (~ 8.20)
 
 ### ![#E23838](https://placehold.it/15/E23838/000000?text=+) . LearnCpp
 
