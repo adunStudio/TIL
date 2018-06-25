@@ -44,23 +44,23 @@
 
 
 
-### ![#FFB900](https://placehold.it/15/ffb900/000000?text=+). Math, Geometry
+### ![#FFB900](https://placehold.it/15/ffb900/000000?text=+) . Math, Geometry
 
 
 
-### ![#5EBD3E](https://placehold.it/15/5ebd3d/000000?text=+). CS:APP
+### ![#5EBD3E](https://placehold.it/15/5ebd3d/000000?text=+) . CS:APP
 
 
 
-### ![#009CDF](https://placehold.it/15/009cdf/000000?text=+). Hacker's Delight
+### ![#009CDF](https://placehold.it/15/009cdf/000000?text=+) . Hacker's Delight
 
 
 
-### ![#973999](https://placehold.it/15/973999/000000?text=+). SCIP
+### ![#973999](https://placehold.it/15/973999/000000?text=+) . SCIP
 
 
 
-### ![#F5EBD3](https://placehold.it/15/f5ebd3/000000?text=+). Multi-Thread
+### ![#F5EBD3](https://placehold.it/15/f5ebd3/000000?text=+) . Multi-Thread
 
  
 
