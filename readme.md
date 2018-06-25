@@ -4,7 +4,7 @@
 
 ## Calendar :calendar:
 
-<img src="./asset/calendar_june.jpeg"/ width="400>
+<img src="./asset/calendar_june.jpeg"/ width="400">
 
 ## Todo List
 
