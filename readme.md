@@ -4,7 +4,7 @@
 
 ## Calendar :calendar:
 
-![06](./asset/06.png)
+![06](./asset/06.jpg)
 
 ## Todo List
 
