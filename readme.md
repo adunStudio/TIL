@@ -17,15 +17,7 @@
 - [ ] ![#973999](https://placehold.it/15/973999/000000?text=+)   SICP
 - [ ] ![#F5EBD3](https://placehold.it/15/f5ebd3/000000?text=+)   Multi-Thread
 
- 
 
- 
-
- 
-
- 
-
- 
 
 ### :sunny: KPU_Sunny (+BossLocker)
 
