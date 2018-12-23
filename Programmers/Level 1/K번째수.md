@@ -23,7 +23,7 @@ void assign ( InputIterator first, InputIterator last );
 void assign ( size_type n, const T& u );
 ```
 
-첫 번째 메서드의 경우 `first`부터 `last`까지의 모든 원소의 내용이 들어가게 된다. 두 번째 메서드는 원소 `u`를 `n`개 가지는 벡터를 만든다.
+첫 번째 메서드의 경우 `first`부터 `last` 이전까지의 모든 원소의 내용이 들어가게 된다. 두 번째 메서드는 원소 `u`를 `n`개 가지는 벡터를 만든다.
 
 `vector.assign()` 메서드를 이용해서 *i-1*부터 *j*까지 쉽게 할당할 수 있다.
 
