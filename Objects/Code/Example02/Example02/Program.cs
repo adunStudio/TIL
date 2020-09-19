@@ -22,6 +22,8 @@ namespace Example02
                     )
                 ));
             
+            avatar.ChangeDiscountPolicy(new NoneDiscountPolicy());
+            
             Movie titanic = 
                 new Movie
                 (
@@ -36,6 +38,15 @@ namespace Example02
                         new PeriodCondition(DayOfWeek.Tuesday, new TimeSpan(10, 0, 0), new TimeSpan(13, 59, 00)
                         )
                     ));
+            
+            Movie starWars = 
+                new Movie
+                (
+                    title: "스타워즈",
+                    runningTime: 210,
+                    fee: Money.Wons(10000),
+                    discountPolicy: new NoneDiscountPolicy()
+                );
         }
     }
 }

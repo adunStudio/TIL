@@ -22,5 +22,10 @@ namespace Example02
             
             return m_Fee.Minus(m_DiscountPolicy.CalculateDiscountAmount(screening));
         }
+
+        public void ChangeDiscountPolicy(DiscountPolicy discountPolicy)
+        {
+            m_DiscountPolicy = discountPolicy;
+        }
     }
 }

@@ -1,6 +1,6 @@
 namespace Example02
 {
-    public class PercentDiscountPolicy : DiscountPolicy
+    public class PercentDiscountPolicy : DefaultDiscountPolicy
     {
         private readonly double m_Percent;
 

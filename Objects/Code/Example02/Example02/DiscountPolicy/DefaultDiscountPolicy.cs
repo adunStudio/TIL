@@ -1,15 +1,14 @@
-using System;
 using System.Collections.Generic;
 
 namespace Example02
 {
-    public abstract class DiscountPolicy
+    public abstract class DefaultDiscountPolicy : DiscountPolicy
     {
-        private List<DiscountCondition> m_Conditions;
+        private readonly List<DiscountCondition> m_Conditions = new List<DiscountCondition>();
 
-        public DiscountPolicy(params DiscountCondition[] discountConditions)
+        public DefaultDiscountPolicy(params DiscountCondition[] discountConditions)
         {
-            m_Conditions = new List<DiscountCondition>(discountConditions);
+            m_Conditions.AddRange(discountConditions);
         }
 
         public Money CalculateDiscountAmount(Screening screening)

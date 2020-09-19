@@ -1,6 +1,6 @@
 namespace Example02
 {
-    public class AmountDiscountPolicy : DiscountPolicy
+    public class AmountDiscountPolicy : DefaultDiscountPolicy
     {
         private readonly Money m_DiscountAmount;
 
